@@ -1,0 +1,6 @@
+python-telegram-bot
+python-telegram-bot
+langchain
+langchain-ollama
+faiss-cpu
+sentence-transformers
