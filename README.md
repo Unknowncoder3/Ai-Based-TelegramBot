@@ -141,7 +141,7 @@ python main.py
 Final Year CSBS Student | GenAI & Applied AI Developer
 
 * GitHub: [https://github.com/Unknowncoder3](https://github.com/Unknowncoder3)
-* LinkedIn: *(add if you want)*
+* LinkedIn: https://www.linkedin.com/in/snehasish-das-7a9803219
 
 ---
 
